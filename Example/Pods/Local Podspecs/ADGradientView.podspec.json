@@ -1,0 +1,22 @@
+{
+  "name": "ADGradientView",
+  "version": "0.1.0",
+  "summary": "A short description of ADGradientView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/André Felipe Destro/ADGradientView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "André Felipe Destro": "afdestro@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/André Felipe Destro/ADGradientView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ADGradientView/Classes/**/*"
+}
