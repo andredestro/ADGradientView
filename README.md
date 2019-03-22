@@ -7,7 +7,7 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+![Interface builder](https://raw.githubusercontent.com/andredestro/ADGradientView/master/print.png)
 
 ## Requirements
 
