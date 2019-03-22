@@ -5,11 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/ADGradientView.svg?style=flat)](https://cocoapods.org/pods/ADGradientView)
 [![Platform](https://img.shields.io/cocoapods/p/ADGradientView.svg?style=flat)](https://cocoapods.org/pods/ADGradientView)
 
+A lib to make easy the use of layer with gradient
+
 ## Example
 
 ![Interface builder](https://raw.githubusercontent.com/andredestro/ADGradientView/master/print.png)
-
-## Requirements
 
 ## Installation
 
